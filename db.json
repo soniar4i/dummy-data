@@ -1,23 +1,364 @@
+
 {
-  "events": [
-    {
-      "id": 1,
-      "title": "Cool event in Madrid",
-      "description": "Have lots of fun in this event",
-      "image": "https://images.unsplash.com/photo-1503270731275-f8e94bf86def"
-    },
-    {
-      "id": 2,
-      "title": "Party Hard and get MAD",
-      "description": "Have lots of fun in this event",
-      "image": "https://images.unsplash.com/photo-1429962714451-bb934ecdc4ec?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b5ecaef0464fc50a866e74a6176c3fdc&auto=format&fit=crop&w=1350&q=80"
-    }
-  ],
+  "crew": [
+  {
+    "name": "Townsend Harris",
+    "race": "Betazoid",
+    "position": "Science",
+    "points": 6298
+  },
+  {
+    "name": "Wiley Glover",
+    "race": "Vulcans",
+    "position": "Command",
+    "points": 7823
+  },
+  {
+    "name": "Small Holland",
+    "race": "Vulcans",
+    "position": "Science",
+    "points": 4573
+  },
+  {
+    "name": "Hess Bridges",
+    "race": "Betazoid",
+    "position": "Science",
+    "points": 9251
+  },
+  {
+    "name": "Allyson Fitzpatrick",
+    "race": "Vulcans",
+    "position": "Command",
+    "points": 6134
+  },
+  {
+    "name": "Ewing Hughes",
+    "race": "Vulcans",
+    "position": "Science",
+    "points": 6755
+  },
+  {
+    "name": "Susanne Lewis",
+    "race": "Betazoid",
+    "position": "Engineering",
+    "points": 3679
+  },
+  {
+    "name": "Simon Wise",
+    "race": "Betazoid",
+    "position": "Command",
+    "points": 9240
+  },
+  {
+    "name": "Nancy Rodriquez",
+    "race": "Vulcans",
+    "position": "Engineering",
+    "points": 1094
+  },
+  {
+    "name": "Kerry Valenzuela",
+    "race": "Humans",
+    "position": "Command",
+    "points": 1663
+  },
+  {
+    "name": "Kathryn Roman",
+    "race": "Betazoid",
+    "position": "Science",
+    "points": 2296
+  },
+  {
+    "name": "Pennington Haley",
+    "race": "Betazoid",
+    "position": "Engineering",
+    "points": 8156
+  },
+  {
+    "name": "Estela Wallace",
+    "race": "Betazoid",
+    "position": "Command",
+    "points": 9491
+  },
+  {
+    "name": "Le Mcdonald",
+    "race": "Humans",
+    "position": "Command",
+    "points": 3399
+  },
+  {
+    "name": "Imogene Gardner",
+    "race": "Vulcans",
+    "position": "Science",
+    "points": 6586
+  },
+  {
+    "name": "Leslie Munoz",
+    "race": "Vulcans",
+    "position": "Engineering",
+    "points": 6659
+  },
+  {
+    "name": "Craft Lee",
+    "race": "Vulcans",
+    "position": "Command",
+    "points": 2159
+  },
+  {
+    "name": "Socorro Dominguez",
+    "race": "Vulcans",
+    "position": "Engineering",
+    "points": 3721
+  },
+  {
+    "name": "Sykes Gates",
+    "race": "Betazoid",
+    "position": "Engineering",
+    "points": 2134
+  },
+  {
+    "name": "Minerva Albert",
+    "race": "Vulcans",
+    "position": "Science",
+    "points": 9190
+  },
+  {
+    "name": "Gracie Kim",
+    "race": "Vulcans",
+    "position": "Engineering",
+    "points": 5126
+  },
+  {
+    "name": "Bernadette Jarvis",
+    "race": "Betazoid",
+    "position": "Science",
+    "points": 9100
+  },
+  {
+    "name": "Jacobson Weeks",
+    "race": "Vulcans",
+    "position": "Engineering",
+    "points": 6128
+  },
+  {
+    "name": "Wilder Mcfadden",
+    "race": "Betazoid",
+    "position": "Engineering",
+    "points": 9699
+  },
+  {
+    "name": "Rutledge Bennett",
+    "race": "Vulcans",
+    "position": "Science",
+    "points": 4861
+  },
+  {
+    "name": "Mcintosh Robertson",
+    "race": "Vulcans",
+    "position": "Command",
+    "points": 7411
+  },
+  {
+    "name": "Forbes Barron",
+    "race": "Vulcans",
+    "position": "Command",
+    "points": 5913
+  },
+  {
+    "name": "Melisa Mckay",
+    "race": "Humans",
+    "position": "Science",
+    "points": 3424
+  },
+  {
+    "name": "Garrett Cook",
+    "race": "Betazoid",
+    "position": "Engineering",
+    "points": 5971
+  },
+  {
+    "name": "Haney Fitzgerald",
+    "race": "Betazoid",
+    "position": "Engineering",
+    "points": 468
+  },
+  {
+    "name": "Ophelia Sandoval",
+    "race": "Vulcans",
+    "position": "Science",
+    "points": 2523
+  },
+  {
+    "name": "Mccray Hays",
+    "race": "Humans",
+    "position": "Engineering",
+    "points": 7987
+  },
+  {
+    "name": "Brittany Tucker",
+    "race": "Betazoid",
+    "position": "Command",
+    "points": 2260
+  },
+  {
+    "name": "Collier Knox",
+    "race": "Humans",
+    "position": "Command",
+    "points": 4403
+  },
+  {
+    "name": "Ross Mays",
+    "race": "Betazoid",
+    "position": "Command",
+    "points": 3471
+  },
+  {
+    "name": "Wanda Moore",
+    "race": "Betazoid",
+    "position": "Science",
+    "points": 2307
+  },
+  {
+    "name": "Wells Mitchell",
+    "race": "Humans",
+    "position": "Command",
+    "points": 8172
+  },
+  {
+    "name": "Juanita Perkins",
+    "race": "Betazoid",
+    "position": "Command",
+    "points": 9717
+  },
+  {
+    "name": "Roseann Allen",
+    "race": "Humans",
+    "position": "Command",
+    "points": 8895
+  },
+  {
+    "name": "Serrano Fischer",
+    "race": "Humans",
+    "position": "Science",
+    "points": 6621
+  },
+  {
+    "name": "Shawn Marks",
+    "race": "Humans",
+    "position": "Command",
+    "points": 297
+  },
+  {
+    "name": "Herring Knight",
+    "race": "Betazoid",
+    "position": "Science",
+    "points": 4609
+  },
+  {
+    "name": "Bennett Gallagher",
+    "race": "Vulcans",
+    "position": "Command",
+    "points": 757
+  },
+  {
+    "name": "Sherry Conrad",
+    "race": "Humans",
+    "position": "Science",
+    "points": 7556
+  },
+  {
+    "name": "Kenya Tillman",
+    "race": "Vulcans",
+    "position": "Science",
+    "points": 3215
+  },
+  {
+    "name": "Helen Potts",
+    "race": "Vulcans",
+    "position": "Engineering",
+    "points": 3114
+  },
+  {
+    "name": "Martha Schwartz",
+    "race": "Humans",
+    "position": "Science",
+    "points": 3592
+  },
+  {
+    "name": "Harris Strickland",
+    "race": "Betazoid",
+    "position": "Engineering",
+    "points": 4082
+  },
+  {
+    "name": "Elisabeth Stephens",
+    "race": "Humans",
+    "position": "Command",
+    "points": 7315
+  },
+  {
+    "name": "Bernadine Hayes",
+    "race": "Vulcans",
+    "position": "Science",
+    "points": 5723
+  },
+  {
+    "name": "Dena Buckner",
+    "race": "Vulcans",
+    "position": "Command",
+    "points": 1930
+  },
+  {
+    "name": "Natasha Kelley",
+    "race": "Betazoid",
+    "position": "Engineering",
+    "points": 5712
+  },
+  {
+    "name": "Janelle Delaney",
+    "race": "Betazoid",
+    "position": "Science",
+    "points": 5429
+  },
+  {
+    "name": "Downs Cherry",
+    "race": "Betazoid",
+    "position": "Engineering",
+    "points": 4445
+  },
+  {
+    "name": "Florence Mueller",
+    "race": "Vulcans",
+    "position": "Command",
+    "points": 6015
+  },
+  {
+    "name": "Carter Collins",
+    "race": "Vulcans",
+    "position": "Command",
+    "points": 1488
+  },
+  {
+    "name": "Gail Mack",
+    "race": "Betazoid",
+    "position": "Engineering",
+    "points": 3380
+  },
+  {
+    "name": "Jeannie Wooten",
+    "race": "Vulcans",
+    "position": "Science",
+    "points": 7479
+  },
+  {
+    "name": "Todd Francis",
+    "race": "Betazoid",
+    "position": "Engineering",
+    "points": 1991
+  }
+],
   "profile": {
     "user": "testuser",
     "name": "Tom Hanks",
     "avatar": "https://tinyurl.com/ybejmg7z"
   }
 }
-
-
